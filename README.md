@@ -1,2 +1,7 @@
-This is my portfolio for Lua scripting and developing where I show my best projects as a backend system designer with a slight touch of front end systems
-My name is Devildoesstuff but just call me Dare. (my discord is Devildoesstuff#8567 I have 3 year experience in HTML and C# programming. I have 3 year experience in Scripting Lua. I enjoy making backend systems but can work with upfront systems. I am 15 years of age. I am from the UK and am taking a Computer Science GCSE for Python and C# I have worked with others in the past.
+This is obby racer, A racing game where you have to hit the finish line whilst passing the obstacles in your path!
+
+This game has some interesting systems like level up systems, rank systems, shop systems, power ups and more!
+
+https://streamable.com/ez3lu7
+
+Here is a demo of the game showing all of the dominant systems in action!
